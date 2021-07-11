@@ -1,3 +1,13 @@
+# Project Demo
+
+[Link](https://d0561910.github.io/React-Dynamic-Pie-Chart/)
+
+## Github Deployment teaching
+
+```
+npm run deploy
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
